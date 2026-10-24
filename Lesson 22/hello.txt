@@ -1,0 +1,10 @@
+{'Activity': 'Сон', 'Time': '22:00', 'Duration': '12 годин'}
+{'Activity': 'Почистити зуби', 'Time': '7:00', 'Duration': '10 хв'}
+Activity: 	прибрати в хаті
+Time: 		12:00
+Duration: 	2 год
+--------------------
+Activity: 	2132413
+Time: 		1324
+Duration: 	324
+--------------------
